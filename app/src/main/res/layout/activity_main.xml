@@ -11,7 +11,7 @@
     tools:context="com.example.mcanvas.MainActivity"
     android:orientation="vertical">
 
-    <com.example.mcanvas.CircleProgressbar
+    <com.example.mcanvas.RingProgressbar
         android:id="@+id/cp"
         android:layout_width="200dp"
         android:layout_height="200dp"/>
